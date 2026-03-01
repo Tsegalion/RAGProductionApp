@@ -11,8 +11,8 @@ Both operations run as durable background functions via [Inngest](https://www.in
 
 ## Demo
 
-![Demo](demo_images/demo.png)
 ![Demo](demo_images/demo_2.png)
+![Demo](demo_images/demo.png)
 
 ## Stack
 
