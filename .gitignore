@@ -134,6 +134,9 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+# Qdrant local storage
+qdrant_storage/
+
 # Environments
 .env
 .envrc
