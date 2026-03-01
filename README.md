@@ -9,6 +9,10 @@ A production-ready Retrieval-Augmented Generation (RAG) pipeline built with Fast
 
 Both operations run as durable background functions via [Inngest](https://www.inngest.com/).
 
+## Demo
+
+![Demo](demo.png)
+
 ## Stack
 
 - **FastAPI** — HTTP server
